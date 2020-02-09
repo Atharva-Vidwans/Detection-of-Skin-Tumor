@@ -1,1 +1,1 @@
-# Detection-of-Skin-Tumor
+# Detection-of-Skin-Tumour
